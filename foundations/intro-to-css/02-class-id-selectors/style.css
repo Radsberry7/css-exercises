@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+    background-color: #ffc0cb;
+}
+
+.one{
+    color:#0000ff;
+    font-size: 36px;
+    font-weight: bold;
+}
+.two{
+    background: #90ee90;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+#three{
+    font-size: 24px;
+}
